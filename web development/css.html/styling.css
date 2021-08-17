@@ -1,0 +1,27 @@
+/********* tag sylactor*** here we can add notes it helps ferther to understand the code * ******/
+h1
+{
+  color: red;font-style: italic; font-size: 50px ;
+
+}
+body{
+  background-color: #FFF5DA;
+}/*
+img{outline-color: red;
+  shape-outside: circle();
+
+}/*
+/**************class sylector**********/
+.bacon{
+  background-color: red ;
+}
+.circular{
+  border-radius: 100%;}
+.p{
+  background-color: green;
+}
+
+/**************id sylector**********it is more specif then tag*/
+#HEADING{
+  background-color: yellow;
+}
