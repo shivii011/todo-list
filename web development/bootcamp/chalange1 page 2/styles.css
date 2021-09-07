@@ -1,0 +1,39 @@
+/*navbar */
+.navbar{
+    text-color:dark;
+    border-style:solid;
+    border-color:#F0F1F2;
+    padding:5px;
+    box-shadow:#F0F1F2;
+}
+.navbrand{
+    padding-right:900px;
+}
+.nav-item{
+    padding:8px; 
+}
+body{
+    padding:0 3%;
+}
+/* .card-body{
+    display: flex;
+} */
+.main{
+    padding-top: 30px;
+}
+.content{
+    display:flex;
+}
+.footer-section-header{
+    background-color: #1890FF21;
+    padding:50px;
+    ;
+}
+.footer-section{
+    display :flex;
+    justify-content: space-between;
+
+}
+.footer{
+    padding: 0 20px;
+}
